@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/fastai-0.7-blue.svg?style=flat-square" alt="made with python"> <img src="https://img.shields.io/badge/google-colab-green.svg?style=flat-square" alt="made with python"> <img src="https://img.shields.io/badge/python-3.6-yellow.svg?style=flat-square" alt="made with python">
+
 # Use fastai for ml in google colab
 
 - The `fastai` ml related packages are available in fastai version `0.7`. The default 
