@@ -14,3 +14,7 @@ files.upload()
 
 - [Notebooks](https://github.com/fastai/fastai/tree/master/courses/ml1)
 - [Lecture Videos](http://course18.fast.ai/ml)
+
+## [Optional] Use nbviewer
+- If the notebooks are not rendered in github use [nbviewer](https://nbviewer.jupyter.org/)
+- Put the github `.ipynb` notbook link in the `nbviewer`
