@@ -11,3 +11,6 @@ google chrome. File loading code snippet
 from google.colab import files
 files.upload()
 ```
+
+- [Notebooks](https://github.com/fastai/fastai/tree/master/courses/ml1)
+- [Lecture Videos](http://course18.fast.ai/ml)
